@@ -1,4 +1,7 @@
 <div class="body">
+
+{{#unless (eq page.attributes.theme "developer")}}
 {{> nav}}
+{{/unless}}
 {{> main}}
 </div>

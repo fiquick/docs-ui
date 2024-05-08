@@ -1,0 +1,12 @@
+= Developer page example
+:page-theme: developer
+
+Example blocks should have a background colour in the docs theme
+
+== No TOC
+
+Developer pages should not have a table of contents.
+
+Most developer pages have been redirected to docs pages.
+
+Other developer pages contain useful information, but we don't want to confuse users by having a TOC that would almost always take them away from developer pages.

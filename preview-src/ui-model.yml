@@ -162,8 +162,11 @@ page:
     - content: Drivers and APIs
       url: drivers-apis.html
       urlType: internal
-    - content: Developer Template
+    - content: Developer Home
       url: developer.html
+      urlType: internal
+    - content: Developer page
+      url: developer-page.html
       urlType: internal
     - content: Knowledge Base
       url: kb-index.html
